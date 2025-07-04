@@ -4,7 +4,12 @@ A production-ready image similarity search system using deep learning embeddings
 
 ## 🎯 Performance Results (CIFAR-10)
 
+
+
+
 **Validated on 1,000 real-world images across 10 classes:**
+
+![Sample Images](docs/sample_images.png)
 
 | Metric | k=1 | k=3 | k=5 | k=10 |
 |--------|-----|-----|-----|------|
